@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c826b144-c9a0-4f5b-b2de-4a922ecc379a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Bản sao của Preprocessing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Everyday.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Copy of image-retrieval-cnn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7_Code.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linear ReGression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResNet.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResNet_Normalize.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resnet with CIFAR10 label.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ResnetKaggle.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thao Tác Hình Ảnh với Numpy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YOLOV8.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Đinh Văn Huy.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2T9x99yEJRzEUSRvCXOHaHTC179" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/OneDrive - hieunghia2002/AIO2023",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c826b144-c9a0-4f5b-b2de-4a922ecc379a" name="Changes" comment="" />
+      <created>1690468943889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690468943889</updated>
+      <workItem from="1690468945033" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
